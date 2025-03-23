@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 設定ファイル
+pdf_split_config.json
+.pdf_split_config.json
+
+# 環境固有
+.env
+.venv
+venv/
+ENV/
+
+# IDEやエディタ
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS固有
+.DS_Store
+Thumbs.db 
